@@ -1,0 +1,166 @@
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\WebAPI.dll.config
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\WebAPI.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\WebAPI.pdb
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csc.exe
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csc.rsp
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csi.exe
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\csi.rsp
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\vbc.exe
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Google.Protobuf.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Buffers.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Memory.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Numerics.Vectors.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.ServiceModel.Primitives.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Web.Http.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Google.Protobuf.pdb
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Google.Protobuf.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Buffers.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Memory.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Numerics.Vectors.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.ServiceModel.Primitives.pdb
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Web.Http.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\LCP\Documents\Faculdade\arquitetura orientada a serviços\projeto_final\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\faculdade\projeto_final\WebAPI\bin\WebAPI.dll.config
+C:\faculdade\projeto_final\WebAPI\bin\WebAPI.dll
+C:\faculdade\projeto_final\WebAPI\bin\WebAPI.pdb
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csc.exe
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csc.exe.config
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csc.rsp
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csi.exe
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csi.exe.config
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\csi.rsp
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.AppContext.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Console.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\vbc.exe
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\vbc.exe.config
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\vbc.rsp
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\faculdade\projeto_final\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\faculdade\projeto_final\WebAPI\bin\Google.Protobuf.dll
+C:\faculdade\projeto_final\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faculdade\projeto_final\WebAPI\bin\Newtonsoft.Json.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Buffers.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Memory.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Numerics.Vectors.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.ServiceModel.Primitives.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Web.Http.dll
+C:\faculdade\projeto_final\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\faculdade\projeto_final\WebAPI\bin\Google.Protobuf.pdb
+C:\faculdade\projeto_final\WebAPI\bin\Google.Protobuf.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Buffers.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Memory.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Numerics.Vectors.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.ServiceModel.Primitives.pdb
+C:\faculdade\projeto_final\WebAPI\bin\Newtonsoft.Json.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Web.Http.xml
+C:\faculdade\projeto_final\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\faculdade\projeto_final\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faculdade\projeto_final\WebAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\faculdade\projeto_final\WebAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\faculdade\projeto_final\WebAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\faculdade\projeto_final\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\faculdade\projeto_final\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\faculdade\projeto_final\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\faculdade\projeto_final\WebAPI\obj\Debug\WebAPI.dll
+C:\faculdade\projeto_final\WebAPI\obj\Debug\WebAPI.pdb
